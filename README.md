@@ -16,11 +16,11 @@ Generic functionalities available to all users include browse programs and depar
 All users are required to login to the system in order to access non-generic system functionalities.<br>
 
 ## Initial Client-Server Setup (URS)
-This system can function with multiple clients and a single server. Upon initial set-up, the server should be launched first in order to listen to clients who wish to establish a server connection. When a client connects to the client, the system is up and running.
+This system can function with multiple clients and a single server. To setup this system, the server should be launched first in order to listen to clients who wish to establish a server connection.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/initialsetup.PNG)
 
 ## All users can browse University programs & courses
-After client-server connection, this is the first interface provided to the user. Without having to login to the system, users can browse the univeristy faculties, the programs (departments) available in each faculty as well as the courses available in each program.
+After client-server connection, this is the first interface provided to the user. Without having to login to the system, users can browse the univeristy faculties, the programs (departments) available in each faculty as well as the courses available in each program.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/browseuniversity.PNG)
 
 ## User Authentication
