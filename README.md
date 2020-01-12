@@ -33,37 +33,37 @@ This feature can also make the registration process less tedious.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/searchcourse.PNG)
 
 ## Student member Dashboard (Main Menu)
-When a student logs into the system, this is the initial menu provided with all the functionalities available to the student.
+When a student logs into the system, this is the initial menu provided with all the functionalities available to the student.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/studentmenu.PNG)
 
 ## Student members can register courses
-Students can register for classes. However, limitations depend on the student's year level or the part-time/full-time status.
+Students can register for classes. However, limitations depend on the student's year level or the part-time/full-time status.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/registercourse.PNG)
 
 ## Student members can also drop a registered course
-Students can also decided to drop a registered course if necessary.
+Students can also decided to drop a registered course if necessary.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/dropcourse.PNG)
 
 ## Faculty/Course Instructor Dashboard (Main Menu)
-Instructors are provided with a slightly different set of functionalities after authentication
+Instructors are provided with a slightly different set of functionalities after authentication.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/facultymenu.PNG)
 
 ## Post/Update student grades
-Obviously, if an instructor teaches a course, the instructor should be able to post student grades.
+Obviously, if an instructor teaches a course, the instructor should be able to post student grades.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/postgradesA.PNG)
 
 ## Faculty/Course instructors can view student profile 
-Instructors have access to profiles of students. However, only for courses the instructor is assigned to.
+Instructors have access to profiles of students. However, only for courses the instructor is assigned to.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/postgradesB.PNG)
 
 ## Update Personal Information
-After logging into the system, all users have access to their personal profiles if there's need to make any changes.
+After logging into the system, all users have access to their personal profiles if there's need to make any changes.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/personalprofile.PNG)
 
 ## Staff Member Dashboard (Main Menu)
-When an administrative staff logs into the system, they're also provided with an initial startup menu.
+When an administrative staff logs into the system, they're also provided with an initial startup menu.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/staffmenu.PNG)
 
-## Staff Members have access to data on department students (Main Menu)
-Every department has a list of enrolled students. Administrative staff members have access to this data.
+## Staff members have access to data on department students
+Every department has a list of enrolled students. Administrative staff members have access to this data.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/departmentstudents.PNG)
