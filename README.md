@@ -16,40 +16,54 @@ Generic functionalities available to all users include browse programs and depar
 All users are required to login to the system in order to access non-generic system functionalities.<br>
 
 ## Initial Client-Server Setup (URS)
+This system can function with multiple clients and a single server. Upon initial set-up, the server should be launched first in order to listen to clients who wish to establish a server connection. When a client connects to the client, the system is up and running.
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/initialsetup.PNG)
 
 ## All users can browse University programs & courses
+After client-server connection, this is the first interface provided to the user. Without having to login to the system, users can browse the univeristy faculties, the programs (departments) available in each faculty as well as the courses available in each program.
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/browseuniversity.PNG)
 
-## Users are required to be authenticated to access the system (Login)
-![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/login.PNG){.center}
+## User Authentication
+Users are required to be login to the system in order to access non-generic user functionalities. The non-generic user functionalities are features available to all user types (even public users) which do not require user authentication.<br>
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/login.PNG)
 
-## All users members can search courses
+## Search courses
+All users members can search courses by course code, course number, department, year level or semester availability.<br>
+This feature can also make the registration process less tedious.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/searchcourse.PNG)
 
 ## Student member Dashboard (Main Menu)
+When a student logs into the system, this is the initial menu provided with all the functionalities available to the student.
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/studentmenu.PNG)
 
 ## Student members can register courses
+Students can register for classes. However, limitations depend on the student's year level or the part-time/full-time status.
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/registercourse.PNG)
 
 ## Student members can also drop a registered course
+Students can also decided to drop a registered course if necessary.
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/dropcourse.PNG)
 
 ## Faculty/Course Instructor Dashboard (Main Menu)
+Instructors are provided with a slightly different set of functionalities after authentication
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/facultymenu.PNG)
 
-## Faculty/Course instructors can post student grades
+## Post/Update student grades
+Obviously, if an instructor teaches a course, the instructor should be able to post student grades.
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/postgradesA.PNG)
 
 ## Faculty/Course instructors can view student profile 
+Instructors have access to profiles of students. However, only for courses the instructor is assigned to.
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/postgradesB.PNG)
 
-## Faculty/Course instructors can view student profile 
+## Update Personal Information
+After logging into the system, all users have access to their personal profiles if there's need to make any changes.
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/personalprofile.PNG)
 
 ## Staff Member Dashboard (Main Menu)
+When an administrative staff logs into the system, they're also provided with an initial startup menu.
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/staffmenu.PNG)
 
 ## Staff Members have access to data on department students (Main Menu)
+Every department has a list of enrolled students. Administrative staff members have access to this data.
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/departmentstudents.PNG)
