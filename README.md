@@ -16,13 +16,13 @@ Generic functionalities available to all users include browse programs and depar
 All users are required to login to the system in order to access non-generic system functionalities.<br>
 
 ## Initial Client-Server Setup (URS)
-![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/initialsetup.PNG){.center}
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/initialsetup.PNG)
 
 ## All users can browse University programs & courses
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/browseuniversity.PNG)
 
 ## Users are required to be authenticated to access the system (Login)
-![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/login.PNG)
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/login.PNG){.center}
 
 ## All users members can search courses
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/searchcourse.PNG)
