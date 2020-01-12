@@ -1,4 +1,4 @@
-# University Registration System URS
+# University Registration System (URS)
 This is a client-server system which manages student enrollment and class history. 
 The system is designed for three main user types: Students, Faculty Instructors and Administrative Staffs.  
 
