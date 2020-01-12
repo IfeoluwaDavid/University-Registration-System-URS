@@ -15,5 +15,42 @@ They are also expected to be able to assign instructors to specific courses.  <b
 Generic functionalities available to all users include browse programs and deparments as well as search courses. <br>
 All users are required to login to the system in order to access non-generic system functionalities.<br>
 
-## The Client-Server Setup (URS)
+## Initial Client-Server Setup (URS)
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/initialsetup.PNG)
+
+## All users can browse University programs & courses (Main Menu)
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/browseuniversity.PNG)
+
+## All users are required to be authenticated to access the system (Login)
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/login.PNG)
+
+## Student member Dashboard (Main Menu)
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/studentmenu.PNG)
+
+## Student members can search or register courses
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/searchcourse.PNG)
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/registercourse.PNG)
+
+## Student members can also drop a registered course
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/dropcourse.PNG)
+
+## Faculty/Course Instructor Dashboard (Main Menu)
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/facultymenu.PNG)
+
+## Faculty/Course instructors can post student grades
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/postgradesA.PNG)
+
+## Faculty/Course instructors can view student profile 
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/postgradesB.PNG)
+
+## Faculty/Course instructors can view student profile 
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/personalprofile.PNG)
+
+## Staff Member Dashboard (Main Menu)
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/staffmenu.PNG)
+
+## Staff Members have access to data on department students (Main Menu)
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/departmentstudents.PNG)
+
+
+
