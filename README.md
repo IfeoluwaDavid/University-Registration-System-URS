@@ -16,19 +16,23 @@ Generic functionalities available to all users include browse programs and depar
 All users are required to login to the system in order to access non-generic system functionalities.<br>
 
 ## Initial Client-Server Setup (URS)
-![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/initialsetup.PNG)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/initialsetup.PNG">
+</p>
 
-## All users can browse University programs & courses (Main Menu)
+## All users can browse University programs & courses
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/browseuniversity.PNG)
 
-## All users are required to be authenticated to access the system (Login)
+## Users are required to be authenticated to access the system (Login)
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/login.PNG)
+
+## All users members can search courses
+![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/searchcourse.PNG)
 
 ## Student member Dashboard (Main Menu)
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/studentmenu.PNG)
 
-## Student members can search or register courses
-![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/searchcourse.PNG)
+## Student members can register courses
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/registercourse.PNG)
 
 ## Student members can also drop a registered course
@@ -51,6 +55,3 @@ All users are required to login to the system in order to access non-generic sys
 
 ## Staff Members have access to data on department students (Main Menu)
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/departmentstudents.PNG)
-
-
-
