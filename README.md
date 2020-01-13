@@ -19,7 +19,7 @@ All users are required to login to the system in order to access non-generic sys
 This system can function with multiple clients and a single server. To setup this system, the server should be launched first in order to listen to clients who wish to establish a server connection.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/initialsetup.PNG)
 
-## All users can browse University programs & courses
+## Browse University Programs & Courses
 After client-server connection, this is the first interface provided to the user. Without having to login to the system, users can browse the univeristy faculties, the programs (departments) available in each faculty as well as the courses available in each program.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/browseuniversity.PNG)
 
@@ -36,7 +36,7 @@ This feature can also make the registration process less tedious.<br>
 When a student logs into the system, this is the initial menu provided with all the functionalities available to the student.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/studentmenu.PNG)
 
-## Student members can register courses
+## Course Registration
 Students can register for classes. However, limitations depend on the student's year level or the part-time/full-time status.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/registercourse.PNG)
 
@@ -48,7 +48,7 @@ Students can also decided to drop a registered course if necessary.<br>
 Instructors are provided with a slightly different set of functionalities after authentication.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/facultymenu.PNG)
 
-## Post/Update student grades
+## Student Grading
 Obviously, if an instructor teaches a course, the instructor should be able to post student grades.<br>
 ![alt text](https://github.com/IfeoluwaDavid/University-Registration-System-URS/blob/master/demo/postgradesA.PNG)
 
